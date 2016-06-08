@@ -1,0 +1,6 @@
+name: 'Update test new module'
+type: module
+description: 'Support module for update module testing.'
+package: Testing
+version: 8.x-1.1
+core: 8.x
